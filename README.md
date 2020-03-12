@@ -1,4 +1,4 @@
-#h1 Marketing website maintenece 
+# Marketing website maintenece 
 >Organizing and maintaining the code for Horiseon Marketing Website.
 ## Completed 
 I gave the images an alt tag. Oranized the semantics so header number come in order. Removed superflourious CSS tag designation. Combined different classes in CSS. 
